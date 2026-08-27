@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
 ## Two Pointers
