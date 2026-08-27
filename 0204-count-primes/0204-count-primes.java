@@ -15,7 +15,7 @@ class Solution {
                 }
             }
         }        
-        int cnt=0;
+        int cnt1=0;
         for(int i=2;i<n;i++)
         {
             if(i>=n)
@@ -26,10 +26,10 @@ class Solution {
             {
                 if(arr[i]==true)
                 {
-                    cnt++;
+                    cnt1++;
                 }
             }
         }
-        return cnt;
+        return cnt1;
     }
 }
