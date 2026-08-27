@@ -3,8 +3,7 @@ class Solution {
         int temp=n;
         int newNum=0;
         int cnt=1;
-        Set<Integer> hashSet= new HashSet<>();
-        while(true)
+        while(n>=10)
         { 
             temp=n;
             while(temp>0)
@@ -14,22 +13,15 @@ class Solution {
             }
            // System.out.println(newNum);
             n=newNum;
-            if(hashSet.contains(newNum))
+            if(newNum >=10)
             {
-                return false;
-            }
-            else
-            {
-                hashSet.add(newNum);
-            }
-            if(newNum==1)
-            {
-                return true;
-            }
-            else
-            {
-                newNum=0;
+            newNum=0;
             }
         }
+        if(newNum==1 || n==1 || newNum==7 || n==7)
+        {
+            return true;
+        }
+        return false;
     }
 }
