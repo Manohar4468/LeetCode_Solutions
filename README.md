@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
