@@ -7,6 +7,7 @@
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 ## Primality Test
 |  |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
