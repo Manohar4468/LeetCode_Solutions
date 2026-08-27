@@ -25,6 +25,7 @@
 | [0202-happy-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,16 +42,20 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
