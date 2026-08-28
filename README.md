@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 ## Greedy
