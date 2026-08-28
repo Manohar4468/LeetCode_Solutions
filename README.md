@@ -11,6 +11,7 @@
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
@@ -27,6 +28,7 @@
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0054-spiral-matrix](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
