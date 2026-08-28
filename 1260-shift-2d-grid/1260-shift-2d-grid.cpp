@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+        k=k%(grid.size()*grid[0].size());
         for(int m=0;m<k;m++){
 	    int temp1=grid[0][0];
         int temp2=grid[0][0];
