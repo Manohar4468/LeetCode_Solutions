@@ -113,4 +113,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0137-single-number-ii) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
