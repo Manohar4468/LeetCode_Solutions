@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,5 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 <!---LeetCode Topics End-->
