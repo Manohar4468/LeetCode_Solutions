@@ -13,6 +13,7 @@
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
@@ -115,6 +116,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
