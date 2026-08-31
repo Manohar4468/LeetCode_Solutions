@@ -140,4 +140,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
