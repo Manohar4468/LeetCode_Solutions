@@ -20,6 +20,7 @@
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
