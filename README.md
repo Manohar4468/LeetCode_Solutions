@@ -21,6 +21,7 @@
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
