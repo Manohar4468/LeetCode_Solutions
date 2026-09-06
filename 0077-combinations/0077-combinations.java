@@ -1,14 +1,15 @@
 class Solution {
     public static List<List<Integer>> combination(int index, int[] nums, List<Integer> temp, List<List<Integer>> ans,int k)
     {
-        if(index==nums.length)
-        {
+        
             if(temp.size()==k)
             {
                 ans.add(new ArrayList<>(temp));
+                return ans;
             }
-            return ans;
-        }
+            if (index == nums.length) {
+                return ans;
+            }
         //pick
         temp.add(nums[index]);
         combination(index+1,nums,temp,ans,k);
