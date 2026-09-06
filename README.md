@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
@@ -130,6 +131,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0190-reverse-bits) |
@@ -161,4 +163,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
