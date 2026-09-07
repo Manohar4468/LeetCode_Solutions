@@ -11,6 +11,7 @@
 | [0137-single-number-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -162,6 +163,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -170,4 +172,8 @@
 | [0039-combination-sum](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
