@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
+| [0724-find-pivot-index](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
