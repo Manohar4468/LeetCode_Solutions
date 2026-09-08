@@ -55,6 +55,7 @@
 | [0231-power-of-two](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
@@ -141,6 +143,7 @@
 | [0190-reverse-bits](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String
 |  |
 | ------- |
