@@ -45,6 +45,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Recursion
 |  |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
