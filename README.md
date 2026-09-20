@@ -57,6 +57,7 @@
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
