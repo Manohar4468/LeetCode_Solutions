@@ -1,31 +1,33 @@
 class Solution {
-    public static List<List<Integer>> combination(int index, int[] nums, List<Integer> temp, List<List<Integer>> ans,int k)
+    static void fun(int index,int k, ArrayList<Integer> current, int[] visited, List<List<Integer>> ans, int[] arr)
     {
-        
-            if(temp.size()==k)
+        if(current.size()==k)
+        {
+            ans.add(new ArrayList<>(current));
+            return;
+        }
+        for(int i=index;i<arr.length;i++)
+        {
+            if(visited[i]==0)
             {
-                ans.add(new ArrayList<>(temp));
-                return ans;
+                visited[i]=1;
+                current.add(arr[i]);
+                fun(i+1,k,current,visited,ans,arr);
+                current.remove(current.size()-1);
+                visited[i]=0;
             }
-            if (index == nums.length) {
-                return ans;
-            }
-        //pick
-        temp.add(nums[index]);
-        combination(index+1,nums,temp,ans,k);
-        temp.remove(temp.size()-1);
-        combination(index+1,nums,temp,ans,k);
-        //non-pick
-        return ans;
+        }
     }
     public List<List<Integer>> combine(int n, int k) {
-        int[] nums= new int[n];
+        int[] arr= new int[n];
         for(int i=0;i<n;i++)
         {
-            nums[i]=i+1;
+            arr[i]=i+1;
         }
-        List<Integer> temp= new ArrayList<>();
         List<List<Integer>> ans= new ArrayList<>();
-        return combination(0,nums,temp,ans,k);
+        ArrayList<Integer> current= new ArrayList<>();
+        int[] visited= new int[n];
+        fun(0,k,current,visited,ans,arr);
+        return ans;
     }
 }
