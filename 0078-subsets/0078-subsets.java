@@ -1,22 +1,22 @@
 class Solution {
-    public static List<List<Integer>> find(int index,int[] nums,List<Integer> temp, List<List<Integer>> ans)
+    static void fun(int index, ArrayList<Integer> current, List<List<Integer>> ans, int[] nums)
     {
         if(index==nums.length)
         {
-            ans.add(new ArrayList<>(temp));
-            return ans;
+            ans.add(new ArrayList<>(current));
+            return;
         }
         //pick
-        temp.add(nums[index]);
-        find(index+1, nums, temp, ans);
-        temp.remove(temp.size()-1);
-        find(index+1,nums,temp,ans);
-        return ans;
+        current.add(nums[index]);
+        fun(index+1,current,ans,nums);
+        current.remove(current.size()-1);
         //non-pick
+        fun(index+1,current,ans,nums);
     }
     public List<List<Integer>> subsets(int[] nums) {
-        List<Integer> temp= new ArrayList<>();
+        ArrayList<Integer> current= new ArrayList<>();
         List<List<Integer>> ans= new ArrayList<>();
-        return find(0,nums, temp,ans);
+        fun(0,current,ans,nums);
+        return ans;
     }
 }
