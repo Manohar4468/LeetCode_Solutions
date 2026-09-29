@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0136-single-number) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Design
