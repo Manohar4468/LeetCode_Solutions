@@ -25,6 +25,7 @@
 | [2614-prime-in-diagonal](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -50,6 +51,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
