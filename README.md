@@ -19,6 +19,7 @@
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -42,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1706-where-will-the-ball-fall) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@
 | [0371-sum-of-two-integers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -204,4 +208,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0198-house-robber) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
