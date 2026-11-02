@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -63,6 +64,7 @@
 | [0231-power-of-two](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manohar4468/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
